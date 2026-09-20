@@ -1,0 +1,12 @@
+# Executáveis compilados (Windows, Mac e Linux)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Pastas de Build e temporários
+build/
+bin/
+.vscode/
+.DS_Store
